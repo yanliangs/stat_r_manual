@@ -1,0 +1,12 @@
+---
+title: hello mayuanbo
+author: yanliang
+date: '2020-02-16'
+slug: hello-mayuanbo
+categories:
+  - R
+tags:
+  - blogdown
+  - R Markdown
+  - regression
+---
